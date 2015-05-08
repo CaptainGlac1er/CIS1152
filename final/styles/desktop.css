@@ -1,0 +1,66 @@
+/* All the CSS for the pages there is a little inline css but mostly it is here*/
+#footer{
+background-color: #B2630F;
+}
+#content .photocapt {
+text-align:center;
+clear:both;
+}
+#content{
+text-align:left;
+clear:both;
+padding: 20px;
+}
+#header{
+width:100%;
+float:left;
+background-color:#1CC134;
+vertical-align:middle;
+height:75px;
+}
+#navigationbar{
+float:left;
+font-size:20px; 
+margin-top:25px;
+}
+#headertext{
+float:left;
+margin-top: 10px;
+margin-left: 10px;
+margin-right:20px;
+font-size:50px;
+color:white;
+}
+#page{
+margin: 0 auto;
+width:920px;
+background-color: #CCCCCC;
+}
+.cite{
+font-style: italic;
+}
+nav a{
+ border-radius: 5px;
+ color: white;
+ border-color:black;
+ border-width:1px;
+ border-style:solid;
+ background-color: #1CC134;
+ padding: 10px;
+ text-decoration:none;
+}
+body{
+background-color: #8EB289;
+}
+.entries{
+ border-color:black;
+ border-width:1px;
+ border-style:solid;
+border-radius: 10px;
+background-color: lightblue;
+padding: 10px;
+margin-bottom:10px;
+}
+p{
+line-height: 2em;
+}

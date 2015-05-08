@@ -1,0 +1,16 @@
+<?php
+$text = <<< EOT
+<p>&nbsp;&nbsp;&nbsp;&nbsp;George Boole was the father of modern symbolic logic which is now known as boolean logic. He was born in Lincolnshire, England in 1815. His father, John Boole, taught him all of his math knowledge. After his fathers teaching he self taught himself mathematics. He also taught himself many modern languages. He loved to learn. He accelerated quickly and by age 16 he was teaching at local schools.  By age 20 he opened his own school in Lincoln. He read mathematics journals from the Lincoln's Mechanics Institute, and also papers from Isaac Newton, Pierre-Simon Laplace, and Joseph-Louis Lagrange. He submitted his own papers to the Cambridge Mathematical Journal about differential equations. In 1844 he wrote his first paper on how algebra could be applied to logic, and it is in the Philosophical Transactions of the Royal Society. The paper won him the gold medal for mathematics. He later in 1847 he said that mathematics and logic should work hand in hand. Eight years later he worked on what today we call Boolean algebra. In 1857 University of Dublin and Oxford gave George Boole a honorary degree of LL.D. He passed away in 1864 and was buried at the Church of Ireland cemetery of St Micheal's. His work lives on in what you use to view this text. Without his work computers would have taken longer to develop.</p>
+<br>
+<br>
+<div class="cite">
+George Boole Biography. (n.d.). Retrieved May 7, 2015, from http://www.thefamouspeople.com/profiles/george-boole-587.php
+<br>
+<br>
+George Boole. (2015). In Encyclopædia Britannica. Retrieved from http://www.britannica.com/EBchecked/topic/73612/George-Boole
+<br>
+<br>
+Burris, S. (2010, April 21). George Boole. Retrieved May 7, 2015, from http://plato.stanford.edu/entries/boole/
+</div>
+EOT;
+?>
